@@ -1,0 +1,8 @@
+2026-10-14 09:00:01 INFO Application starting
+2026-10-14 09:00:02 INFO Configuration loaded
+2026-10-14 09:00:05 WARN Cache response is slow
+2026-10-14 09:02:14 ERROR Payment service timeout
+2026-10-14 09:02:15 INFO Retrying payment request
+2026-10-14 09:02:18 ERROR Database connection refused
+2026-10-14 09:02:20 WARN Retry limit nearly reached
+2026-10-14 09:03:00 INFO Health check completed
