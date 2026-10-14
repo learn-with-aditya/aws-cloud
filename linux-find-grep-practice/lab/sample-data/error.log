@@ -1,0 +1,3 @@
+ERROR disk usage threshold exceeded
+ERROR upstream service unavailable
+CRITICAL database pool exhausted

@@ -1,0 +1,6 @@
+10.0.0.5 - GET / 200
+10.0.0.8 - GET /login 200
+10.0.0.5 - POST /login 401
+10.0.0.9 - GET /dashboard 200
+10.0.0.8 - GET /missing 404
+10.0.0.5 - POST /payment 500
